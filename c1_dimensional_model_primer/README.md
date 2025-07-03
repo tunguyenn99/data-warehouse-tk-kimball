@@ -111,6 +111,8 @@ Trong thực tế, nhiều hệ thống có sẵn sơ đồ ERD (Entity Relation
 
 > ✅ Dimensional model không thay thế ERD — mà là **chuyển hoá phù hợp theo mục tiêu sử dụng**. Khi cần phân tích và hỗ trợ ra quyết định, ta luôn cần mô hình dimensional đơn giản và trực quan hơn cho người dùng cuối.
 
+**Ví dụ**: Sử dụng Star Schema đơn giản, kéo thả các trường thông tin trong bảng Dim/Fact tương ứng sẽ tạo thành các kết quả tính toán cần thiết phục vụ cho business
+
 <img src="https://image.slideserve.com/790845/dragging-and-dropping-dimensional-attributes-and-facts-into-a-simple-report-l.jpg" width=600>
 
 ---
