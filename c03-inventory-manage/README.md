@@ -129,6 +129,7 @@ Fact conformed đảm bảo:
 Ví dụ:
 
 * `total_sales_amount` ở các bảng phải cùng tính trên đơn giá \* số lượng, không được khác nhau giữa các mart.
+<!-- Created by @tunguyenn99 | Do not reuse without permission -->
 
 ## 📌 Tóm tắt chương
 
@@ -138,3 +139,4 @@ Ví dụ:
 * 🧾 Giao dịch cung cấp chi tiết nhưng không phù hợp để phân tích tổng hợp
 * 🏗️ Đặt nền móng cho kiến trúc bus và việc chia sẻ dimension giữa các data mart
 * 💡 Nhấn mạnh tầm quan trọng của dimension và fact đồng nhất để tích hợp toàn bộ kho dữ liệu
+<!-- Created by @tunguyenn99 | Do not reuse without permission -->
