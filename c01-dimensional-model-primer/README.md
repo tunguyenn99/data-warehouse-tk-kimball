@@ -34,7 +34,7 @@ Người quản lý Data Warehouse giống như tổng biên tập của một t
 
 ## 🏗 Các thành phần chính của Data Warehouse
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdU4Qa5hgiLCmJnBZc4PLlFQrqPOb02Vg_DuDcSJp1Bw5h-3GS9H3DlW9LjMp8uupraFDNRyblSjHAB8TwjtNrLdd6NOwHKqKHCQcOHj1cRjtVyZ8-1SAUKz88M4dhNYZsOahzEVqt3o4/s1600/Operational++Source+Systems.jpg" width=600>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdU4Qa5hgiLCmJnBZc4PLlFQrqPOb02Vg_DuDcSJp1Bw5h-3GS9H3DlW9LjMp8uupraFDNRyblSjHAB8TwjtNrLdd6NOwHKqKHCQcOHj1cRjtVyZ8-1SAUKz88M4dhNYZsOahzEVqt3o4/s1600/Operational++Source+Systems.jpg" width=600> 
 
 | Thành phần             | Mô tả ngắn |
 |------------------------|-----------|
